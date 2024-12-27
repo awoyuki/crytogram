@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 297d981104fda944f8045dfb6ffbfd38, type: 3}
+  m_Name: G2_SO_DataInfoLevel_1
+  m_EditorClassIdentifier: 
+  so_index: 1
+  index: 1
+  so_sentence: Iceland is the only country
+  so_status_crypto_en: 1111111111111111111111111111111111111111111111111111111
+  so_status_text_en: ICELANDISTHEONLYCOUNTRYCARSCASINOTONERHARDINDUSTRYSALES
+  dataHintWord:
+  - so_describe: Vehicles
+    so_letter: Cars
+  - so_describe: Gambling locale
+    so_letter: Casino
+  - so_describe: Laser printer consumable
+    so_letter: Toner
+  - so_describe: Type of candy or cider
+    so_letter: Hard
+  - so_describe: Automotive, music or tourism, e.g.
+    so_letter: Industry
+  - so_describe: Income statement figure
+    so_letter: Sales

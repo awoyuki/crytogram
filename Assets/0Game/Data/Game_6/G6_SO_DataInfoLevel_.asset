@@ -1,0 +1,507 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e0ddf28ebd2bd40b3f93c47c8ff92c, type: 3}
+  m_Name: G6_SO_DataInfoLevel_
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: so_board_data
+      Entry: 7
+      Data: 0|System.String[,], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 121
+    - Name: ranks
+      Entry: 1
+      Data: 11|11
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: so_word_data
+      Entry: 7
+      Data: 1|System.Collections.Generic.List`1[[G6_WordSnake, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 2|G6_WordSnake, Assembly-CSharp
+    - Name: word
+      Entry: 1
+      Data: Bread
+    - Name: color
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0.7914926
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: indexes
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|G6_WordSnake, Assembly-CSharp
+    - Name: word
+      Entry: 6
+      Data: 
+    - Name: color
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: indexes
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|G6_WordSnake, Assembly-CSharp
+    - Name: word
+      Entry: 6
+      Data: 
+    - Name: color
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: indexes
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  so_index: 0
+  so_column: 11
+  so_row: 11

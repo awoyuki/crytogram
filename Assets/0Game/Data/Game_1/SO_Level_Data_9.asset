@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760b4a6a216c54fbc0cdf19848f0a0, type: 3}
+  m_Name: SO_Level_Data_9
+  m_EditorClassIdentifier: 
+  so_index: 9
+  word_cryptos_array:
+  - character_array:
+    - character: 84
+      status: 1
+    - character: 72
+      status: 1
+    - character: 69
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 70
+      status: 1
+    - character: 85
+      status: 1
+    - character: 84
+      status: 5
+    - character: 85
+      status: 1
+    - character: 82
+      status: 1
+    - character: 69
+      status: 5
+    isLocked: 0
+  - character_array:
+    - character: 66
+      status: 1
+    - character: 69
+      status: 1
+    - character: 76
+      status: 5
+    - character: 79
+      status: 1
+    - character: 78
+      status: 1
+    - character: 71
+      status: 5
+    - character: 83
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 84
+      status: 1
+    - character: 79
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 84
+      status: 1
+    - character: 72
+      status: 1
+    - character: 79
+      status: 1
+    - character: 83
+      status: 5
+    - character: 69
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 87
+      status: 1
+    - character: 72
+      status: 1
+    - character: 79
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 66
+      status: 5
+    - character: 69
+      status: 1
+    - character: 76
+      status: 1
+    - character: 73
+      status: 3
+    - character: 69
+      status: 1
+    - character: 86
+      status: 1
+    - character: 69
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 73
+      status: 5
+    - character: 78
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 84
+      status: 1
+    - character: 72
+      status: 1
+    - character: 69
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 66
+      status: 1
+    - character: 69
+      status: 1
+    - character: 65
+      status: 5
+    - character: 85
+      status: 1
+    - character: 84
+      status: 1
+    - character: 89
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 79
+      status: 5
+    - character: 70
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 84
+      status: 1
+    - character: 72
+      status: 1
+    - character: 69
+      status: 1
+    - character: 73
+      status: 1
+    - character: 82
+      status: 1
+    isLocked: 0
+  - character_array:
+    - character: 68
+      status: 5
+    - character: 82
+      status: 1
+    - character: 69
+      status: 3
+    - character: 65
+      status: 1
+    - character: 77
+      status: 5
+    - character: 83
+      status: 1
+    - character: 46
+      status: 0
+    isLocked: 0
+  so_authorName: Eleanor Roosevelt
+  so_describe: 

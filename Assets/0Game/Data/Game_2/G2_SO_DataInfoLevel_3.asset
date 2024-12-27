@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 297d981104fda944f8045dfb6ffbfd38, type: 3}
+  m_Name: G2_SO_DataInfoLevel_3
+  m_EditorClassIdentifier: 
+  so_index: 3
+  index: 3
+  so_sentence: Country's largest island
+  so_status_crypto_en: 111111111111111111111111111111111111111111111111111111111111
+  so_status_text_en: COUNTRYSLARGESTISLANDGOOGLECARESELLERGUIDECENTURYEDITDECIDED
+  dataHintWord:
+  - so_describe: Company that owns Blogger
+    so_letter: Google
+  - so_describe: Worry about
+    so_letter: Care
+  - so_describe: Merchant
+    so_letter: Seller
+  - so_describe: Sherpa's job
+    so_letter: Guide
+  - so_describe: Time period
+    so_letter: Century
+  - so_describe: Make readable
+    so_letter: Exit
+  - so_describe: Made up one's mind
+    so_letter: Decided
